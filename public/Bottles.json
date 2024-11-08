@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "name": "Hydro Flask 32 oz",
+    "image": "https://www.hydroflask.com/media/catalog/product/cache/77db0a5f883b6795ccfad0b5f4e74aee/w/3/w32bts-fir-straighton.jpg",
+    "price": 45.99,
+    "stock": 120,
+    "ratingsCount": 2400,
+    "shipping": "Free",
+    "quantity": 1
+  },
+  {
+    "id": 2,
+    "name": "Nalgene Wide Mouth 32 oz",
+    "image": "https://www.hydroflask.com/media/catalog/product/w/3/w32bts464-indigo-straighton-compprod.png",
+    "price": 14.95,
+    "stock": 300,
+    "ratingsCount": 1800,
+    "shipping": "Free",
+    "quantity": 1
+  },
+  {
+    "id": 3,
+    "name": "S’well 17 oz",
+    "image": "https://www.hydroflask.com/media/catalog/product/cache/77db0a5f883b6795ccfad0b5f4e74aee/w/4/w40bfs162-40-oz-wide-flex-straw-cap-fossil-straight_1.jpg",
+    "price": 35.00,
+    "stock": 90,
+    "ratingsCount": 2100,
+    "shipping": "$5.00",
+    "quantity": 1
+  },
+  {
+    "id": 4,
+    "name": "CamelBak Eddy+ 25 oz",
+    "image": "https://www.hydroflask.com/media/catalog/product/cache/77db0a5f883b6795ccfad0b5f4e74aee/w/3/w32bfs504-32-oz-wide-flex-straw-cap-moonshadow-straight.jpg",
+    "price": 20.00,
+    "stock": 150,
+    "ratingsCount": 1300,
+    "shipping": "Free",
+    "quantity": 1
+  },
+  {
+    "id": 5,
+    "name": "Contigo Autoseal Chill 24 oz",
+    "image": "https://www.hydroflask.com/media/catalog/product/cache/77db0a5f883b6795ccfad0b5f4e74aee/s/2/s24-trillium-straighton_1.jpg",
+    "price": 22.50,
+    "stock": 200,
+    "ratingsCount": 1700,
+    "shipping": "$3.50",
+    "quantity": 1
+  },
+  {
+    "id": 6,
+    "name": "Brita Filtering Bottle 26 oz",
+    "image": "https://www.hydroflask.com/media/catalog/product/cache/77db0a5f883b6795ccfad0b5f4e74aee/w/t/wt32bfcc374-32-oz-wide-flex-chug-cap-travel-bottle-agave-angled_1.jpg",
+    "price": 24.99,
+    "stock": 50,
+    "ratingsCount": 1100,
+    "shipping": "Free",
+    "quantity": 1
+  },
+  {
+    "id": 7,
+    "name": "LARQ Self-Cleaning 17 oz",
+    "image": "https://www.hydroflask.com/media/catalog/product/cache/77db0a5f883b6795ccfad0b5f4e74aee/w/3/w32bts-fir-straighton.jpg",
+    "price": 95.00,
+    "stock": 35,
+    "ratingsCount": 800,
+    "shipping": "$7.00",
+    "quantity": 1
+  },
+  {
+    "id": 8,
+    "name": "Takeya Actives 22 oz",
+    "image": "https://www.hydroflask.com/media/catalog/product/cache/77db0a5f883b6795ccfad0b5f4e74aee/l/w/lw24lwb091-serpentine-straight_1_.jpg",
+    "price": 29.99,
+    "stock": 180,
+    "ratingsCount": 1450,
+    "shipping": "Free",
+    "quantity": 1
+  },
+  {
+    "id": 9,
+    "name": "ThermoFlask 24 oz",
+    "image": "https://www.hydroflask.com/media/catalog/product/cache/77db0a5f883b6795ccfad0b5f4e74aee/w/4/w40bfs162-40-oz-wide-flex-straw-cap-fossil-straight_1.jpg",
+    "price": 19.99,
+    "stock": 100,
+    "ratingsCount": 1000,
+    "shipping": "$4.50",
+    "quantity": 1
+  },
+  {
+    "id": 10,
+    "name": "Klean Kanteen Classic 20 oz",
+    "image": "https://www.hydroflask.com/media/catalog/product/cache/77db0a5f883b6795ccfad0b5f4e74aee/w/t/wt32bfcc374-32-oz-wide-flex-chug-cap-travel-bottle-agave-angled_1.jpg",
+    "price": 24.95,
+    "stock": 210,
+    "ratingsCount": 1550,
+    "shipping": "Free",
+    "quantity": 1
+  },
+  {
+    "id": 11,
+    "name": "Simple Modern 32 oz",
+    "image": "https://www.hydroflask.com/media/catalog/product/w/3/w32bts464-indigo-straighton-compprod.png",
+    "price": 17.99,
+    "stock": 300,
+    "ratingsCount": 2500,
+    "shipping": "Free",
+    "quantity": 1
+  },
+  {
+    "id": 12,
+    "name": "Ello Syndicate Glass 20 oz",
+    "image": "https://www.hydroflask.com/media/catalog/product/cache/77db0a5f883b6795ccfad0b5f4e74aee/w/3/w32bfs504-32-oz-wide-flex-straw-cap-moonshadow-straight.jpg",
+    "price": 15.00,
+    "stock": 75,
+    "ratingsCount": 900,
+    "shipping": "$6.00",
+    "quantity": 1
+  },
+  {
+    "id": 13,
+    "name": "Vapur Anti-Bottle 18 oz",
+    "image": "https://www.hydroflask.com/media/catalog/product/cache/77db0a5f883b6795ccfad0b5f4e74aee/l/w/lw24lwb091-serpentine-straight_1_.jpg",
+    "price": 12.99,
+    "stock": 180,
+    "ratingsCount": 1100,
+    "shipping": "Free",
+    "quantity": 1
+  },
+  {
+    "id": 14,
+    "name": "Zojirushi Stainless Mug 16 oz",
+    "image": "https://www.hydroflask.com/media/catalog/product/cache/77db0a5f883b6795ccfad0b5f4e74aee/w/4/w40bfs162-40-oz-wide-flex-straw-cap-fossil-straight_1.jpg",
+    "price": 28.99,
+    "stock": 50,
+    "ratingsCount": 1250,
+    "shipping": "$5.00",
+    "quantity": 1
+  },
+  {
+    "id": 15,
+    "name": "YETI Rambler 36 oz",
+    "image": "https://www.hydroflask.com/media/catalog/product/cache/77db0a5f883b6795ccfad0b5f4e74aee/w/3/w32bfs504-32-oz-wide-flex-straw-cap-moonshadow-straight.jpg",
+    "price": 49.99,
+    "stock": 80,
+    "ratingsCount": 3000,
+    "shipping": "Free",
+    "quantity": 1
+  },
+  {
+    "id": 16,
+    "name": "Soma Glass 17 oz",
+    "image": "https://www.hydroflask.com/media/catalog/product/w/3/w32bts464-indigo-straighton-compprod.png",
+    "price": 30.00,
+    "stock": 45,
+    "ratingsCount": 600,
+    "shipping": "$4.00",
+    "quantity": 1
+  },
+  {
+    "id": 17,
+    "name": "Lifestraw Go 22 oz",
+    "image": "https://www.hydroflask.com/media/catalog/product/cache/77db0a5f883b6795ccfad0b5f4e74aee/s/2/s24-trillium-straighton_1.jpg",
+    "price": 37.95,
+    "stock": 60,
+    "ratingsCount": 1400,
+    "shipping": "Free",
+    "quantity": 1
+  },
+  {
+    "id": 18,
+    "name": "Que Collapsible Bottle 20 oz",
+    "image": "https://www.hydroflask.com/media/catalog/product/cache/77db0a5f883b6795ccfad0b5f4e74aee/l/w/lw24lwb091-serpentine-straight_1_.jpg",
+    "price": 24.95,
+    "stock": 100,
+    "ratingsCount": 800,
+    "shipping": "$5.00",
+    "quantity": 1
+  },
+  {
+    "id": 19,
+    "name": "S'ip by S’well 15 oz",
+    "image": "https://www.hydroflask.com/media/catalog/product/cache/77db0a5f883b6795ccfad0b5f4e74aee/w/3/w32bfs504-32-oz-wide-flex-straw-cap-moonshadow-straight.jpg",
+    "price": 25.00,
+    "stock": 150,
+    "ratingsCount": 950,
+    "shipping": "Free",
+    "quantity": 1
+  },
+  {
+    "id": 20,
+    "name": "Aladdin Fresco Twist & Go 24 oz",
+    "image": "https://www.hydroflask.com/media/catalog/product/cache/77db0a5f883b6795ccfad0b5f4e74aee/w/4/w40bfs162-40-oz-wide-flex-straw-cap-fossil-straight_1.jpg",
+    "price": 22.00,
+    "stock": 110,
+    "ratingsCount": 1200,
+    "shipping": "$3.50",
+    "quantity": 1
+  }
+]
